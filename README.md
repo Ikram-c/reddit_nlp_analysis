@@ -1,9 +1,7 @@
 # reddit_nlp_analysis
 # Portfolio Project: Reddit BJJ Data Analysis
 
-This project is a Python script that extracts data from the Reddit API, cleans and analyzes the data using NLP techniques, and performs sentiment analysis on the text. The purpose of this project is to analyze the sentiment of posts related to Brazilian Jiu-Jitsu (BJJ) and identify the most frequently mentioned people and topics. A dashboard is also being developed to link to the output csv and images, a quick basic plan view can be seen below:
-
-![Sample dashboard](https://user-images.githubusercontent.com/68299933/223722503-bc2a5c99-4435-4f06-99c3-96de4665840f.jpg)
+This project is a Python script that extracts data from the Reddit API, cleans and analyzes the data using NLP techniques, and performs sentiment analysis on the text. The purpose of this project is to analyze the sentiment of posts related to Brazilian Jiu-Jitsu (BJJ) and identify the most frequently mentioned people and topics. A dashboard is also being developed to link to the output csv and images
 
 ### Libraries Used:
 - requests
